@@ -43,15 +43,3 @@
 - perimeter(a, b, c): returns triangle perimeter with given sides.
    Example:
       input: 2 3 4 output: 9
-
-#Logs
-
-* 5975985 docs: Add docstrings for functions in square.py
-* 31695fa docs: Add docstrings for functions in rectangle.py
-* 5bd1427 docs: Add docstrings for functions in triangle.py
-* 6e4b6d7 docs: Add docstrings for functions in circle.py
-* a7af3da fix: Fixed perimeter function
-* bf1060a feat: Added new file triangle.py
-* 25cce72 feat: Added new file rectangle.py
-* d078c8d (origin/main, origin/HEAD) L-03: Docs added
-* 8ba9aeb L-03: Circle and square added
